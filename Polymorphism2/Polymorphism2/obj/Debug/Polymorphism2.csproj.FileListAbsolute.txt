@@ -1,0 +1,10 @@
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csprojAssemblyReference.cache
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.CoreCompileInputs.cache
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe.config
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.exe
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\bin\Debug\Polymorphism2.pdb
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\bin\Debug\Newtonsoft.Json.dll
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\bin\Debug\Newtonsoft.Json.xml
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.csproj.CopyComplete
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.exe
+D:\18.11.2270\Polymorphism2\Polymorphism2\Polymorphism2\obj\Debug\Polymorphism2.pdb
